@@ -1,0 +1,502 @@
+[
+    {
+        "rut": "89924440-Y",
+        "tipo": "Usurpación",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "66237515-E",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "70047810-E",
+        "tipo": "Daños",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "91950957-Q",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "24114XXX-X",
+        "tipo": "Delitos contra la libertad (amenazas, coacciones)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "96269932-M",
+        "tipo": "Usurpación",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "64595392-F",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "28831289-F",
+        "tipo": "Robo con violencia o intimidación",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "66330291-Q",
+        "tipo": "Daños",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "53085392-N",
+        "tipo": "Estafa",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "38546869-L",
+        "tipo": "Secuestro",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "95636827-K",
+        "tipo": "Daños",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "74928188-F",
+        "tipo": "Lesiones",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "53085392-N",
+        "tipo": "Delitos contra la familia (violencia intrafamiliar)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "85361434-Q",
+        "tipo": "Robo con violencia o intimidación",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "24114XXX-X",
+        "tipo": "Daños",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "74369392-L",
+        "tipo": "Lesiones",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "83795964-H",
+        "tipo": "Hurto",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "66330291-Q",
+        "tipo": "Delitos contra el honor (injurias y calumnias)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "61586633-Q",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "54784370-A",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "28831289-F",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "61586633-Q",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "68429721-Y",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "46309824-Z",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "94879923-R",
+        "tipo": "Homicidio",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "16459038-P",
+        "tipo": "Homicidio",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "64966696-E",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "44205794-R",
+        "tipo": "Homicidio",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "28831289-F",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "54784370-A",
+        "tipo": "Usurpación",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "36238116-Y",
+        "tipo": "Daños",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "36073343-M",
+        "tipo": "Delitos contra la libertad (amenazas, coacciones)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "66330291-Q",
+        "tipo": "soborno carabinero",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "64595392-F",
+        "tipo": "Secuestro",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "35109913-E",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "79923388-K",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "25603872-L",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "56171626-Z",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "45837982-V",
+        "tipo": "soborno carabinero",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "47235745-R",
+        "tipo": "Delitos contra el honor (injurias y calumnias)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "87823186-D",
+        "tipo": "Delitos contra la libertad (amenazas, coacciones)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "10017561-A",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "74928188-F",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "84153352-D",
+        "tipo": "Lesiones",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "36073343-M",
+        "tipo": "Delitos contra la familia (violencia intrafamiliar)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "36073343-M",
+        "tipo": "Robo con violencia o intimidación",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "73850283-C",
+        "tipo": "Robo con fuerza en las cosas",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "98573911-M",
+        "tipo": "Hurto",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "46001121-V",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "45968725-M",
+        "tipo": "Delitos contra el honor (injurias y calumnias)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "97176422-L",
+        "tipo": "Daños",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "64595392-F",
+        "tipo": "Delitos contra la familia (violencia intrafamiliar)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "30072XXX-X",
+        "tipo": "Usurpación",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "70047810-E",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "84153352-D",
+        "tipo": "Estafa",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "13910183-J",
+        "tipo": "Robo con fuerza en las cosas",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "54784370-A",
+        "tipo": "Homicidio",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "46001121-V",
+        "tipo": "Lesiones",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "25726143-E",
+        "tipo": "Estafa",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "36073343-M",
+        "tipo": "Incendio y otros siniestros",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "13789360-D",
+        "tipo": "Delitos contra la familia (violencia intrafamiliar)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "45837982-V",
+        "tipo": "Robo con fuerza en las cosas",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "87823186-D",
+        "tipo": "soborno carabinero",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "45668299-M",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "16517844-A",
+        "tipo": "Hurto",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "45837982-V",
+        "tipo": "Delitos contra la familia (violencia intrafamiliar)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "71087348-Y",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "57528434-Y",
+        "tipo": "Estafa",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "28831289-F",
+        "tipo": "Secuestro",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "54784370-A",
+        "tipo": "Secuestro",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "24491167-P",
+        "tipo": "Usurpación",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "39128068-P",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "36238116-Y",
+        "tipo": "Delitos contra la libertad (amenazas, coacciones)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "46001121-V",
+        "tipo": "Delitos contra la libertad (amenazas, coacciones)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "21536XXX-X",
+        "tipo": "Robo con fuerza en las cosas",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "35109913-E",
+        "tipo": "Estafa",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "45968725-M",
+        "tipo": "Estafa",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "38546869-L",
+        "tipo": "Estafa",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "21536XXX-X",
+        "tipo": "Usurpación",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "36073343-M",
+        "tipo": "Secuestro",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "41634725-X",
+        "tipo": "Hurto",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "61586633-Q",
+        "tipo": "Secuestro",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "77670216-K",
+        "tipo": "soborno carabinero",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "46159822-H",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "16459038-P",
+        "tipo": "Lesiones",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "64966696-E",
+        "tipo": "Usurpación",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "41436756-W",
+        "tipo": "Delitos contra el honor (injurias y calumnias)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "21536XXX-X",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "16517844-A",
+        "tipo": "Robo con violencia o intimidación",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "15820012-Z",
+        "tipo": "Secuestro",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "43261XXX-X",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "66330291-Q",
+        "tipo": "Delitos contra el honor (injurias y calumnias)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "75378154-R",
+        "tipo": "Hurto",
+        "descripcion": "Pendiente de juicio"
+    },
+    {
+        "rut": "48021015-M",
+        "tipo": "Delitos contra la fe pública (falsificación de documentos)",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "13789360-D",
+        "tipo": "Estafa",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "29385814-W",
+        "tipo": "Delitos contra la seguridad pública (tenencia ilegal de armas)",
+        "descripcion": "En libertad bajo fianza"
+    },
+    {
+        "rut": "41073849-N",
+        "tipo": "Delitos contra la salud pública (tráfico de drogas)",
+        "descripcion": "Sujeto peligroso"
+    },
+    {
+        "rut": "16596223-K",
+        "tipo": "Daños",
+        "descripcion": "Antecedentes previos"
+    },
+    {
+        "rut": "70047810-E",
+        "tipo": "Secuestro",
+        "descripcion": "Antecedentes previos"
+    }
+]
